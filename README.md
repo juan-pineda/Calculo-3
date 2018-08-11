@@ -22,7 +22,7 @@ No olviden ingresar a la encuesta para definir los horarios de consulta:
 **Nota:**
 El examen final es acumulativo y por escuela.
 
-**Adicionalmente**, las personas que obtengan en dicho examen _una nota superior o
+Adicionalmente, las personas que obtengan en dicho examen **_una nota superior o
 igual a 3.0_**, tienen el derecho a cambiar alguna de las otras notas listadas
 arriba por la nota del examen final si esto les conviene (es decir, la nota
 final quedaría replicada y la peor nota se borraría).
