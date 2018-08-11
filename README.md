@@ -3,9 +3,13 @@
 Profesor: Juan Carlos Basto Pineda
 Universidad Industrial de Santander
 
-Última actualización: 11 de agosto de 2018, 7:14 a.m
+Última actualización: 11 de agosto de 2018
 
 # Noticias:
+
+No olviden ingresar a la encuesta para definir los horarios de consulta:
+<https://doodle.com/poll/4yhsw8dxtx5zb7bx>
+
 
 ## Sistema de evaluación
 
