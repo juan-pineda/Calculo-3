@@ -18,7 +18,8 @@ Hubo un cambio respecto a lo anunciado en la clase de hoy (martes):
 * Lunes 3:00 - 4:00 p.m
 * Viernes 4:00 - 5:00 p.m
 
-Por favor verificar todo el mundo con su horario, y si a alguien no le sirve
-ninguno de los dos horarios propuestos me avisan.
+Las consultas se realizarán en la sala de profesores de cátedra de la Escuela de Matemáticas,
+en el primer piso de LL. Por favor verificar que al menos uno de los dos horarios propuestos
+les sirva, en caso contrario me avisan por email.
 
 
