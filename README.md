@@ -1,37 +1,24 @@
 # Calculo-3
 
 Profesor: Juan Carlos Basto Pineda
+juan.basto.pineda@gmail.com
 
 Universidad Industrial de Santander
 
-Última actualización: 11 de agosto de 2018
+Última actualización: 14 de agosto de 2018
 
 # Noticias:
 
-No olviden ingresar a la encuesta para definir los horarios de consulta:
-<https://doodle.com/poll/4yhsw8dxtx5zb7bx>
+## Horarios de consulta
 
+Hubo un cambio respecto a lo anunciado en la clase de hoy (martes):
+**_Los lunes la consulta será en las horas de la tarde, ya no de la mañana._**
 
-## Sistema de evaluación
+* ~~ Lunes 2:00 - 3:00 p.m.~~
+* Lunes 2:00 - 3:00 p.m
+* Viernes 4:00 - 5:00 p.m
 
-* Examen del primer corte: 20%
-* Examen del segundo corte: 20%
-* Examen del tercer corte: 20%
-* Quices, talleres y tareas: 15%
-* Examen Final: 25 %
-
-**Nota:**
-El examen final es acumulativo y por escuela.
-
-Adicionalmente, las personas que obtengan en dicho examen **_una nota superior o
-igual a 3.0_**, tienen el derecho a cambiar alguna de las otras notas listadas
-arriba por la nota del examen final si esto les conviene (es decir, la nota
-final quedaría replicada y la peor nota se borraría).
-
-
-
-
-
-
+Por favor verificar todo el mundo con su horario, y si a alguien no le sirve
+ninguno de los dos horarios propuestos me avisan.
 
 
