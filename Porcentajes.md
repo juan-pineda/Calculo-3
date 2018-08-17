@@ -14,3 +14,12 @@ igual a 3.0_**, tienen el derecho a cambiar alguna de las otras notas listadas
 arriba por la nota del examen final si esto les conviene (es decir, la nota
 final quedaría replicada y la peor nota se borraría).
 
+## Horarios de consulta
+
+* Lunes 3:00 - 4:00 p.m
+* Viernes 4:00 - 5:00 p.m
+
+Las consultas se realizarán en la sala de profesores de cátedra de la Escuela de Matemáticas,
+en el primer piso de LL. 
+
+

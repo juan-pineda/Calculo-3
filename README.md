@@ -1,25 +1,19 @@
 # Calculo-3
 
 Profesor: Juan Carlos Basto Pineda  
-juan.basto.pineda@gmail.com
+juan.basto.pineda@gmail.com  
 
-Universidad Industrial de Santander
+Universidad Industrial de Santander  
 
-Última actualización: 14 de agosto de 2018
+Última actualización: 17 de agosto de 2018
 
 # Noticias:
 
-## Horarios de consulta
+## Ejercicios/Taller
 
-Hubo un cambio respecto a lo anunciado en la clase de hoy (martes):
-**_Los lunes la consulta será en las horas de la tarde, ya no de la mañana._**
+En la carpeta del primer corte les coloqué un ejercicio resuelto y un taller con
+ejercicios de todo lo del primer corte, para que vayan estudiando con juicio desde
+ahora. El taller **no es para entregar**
 
-* ~~Lunes 9:00 - 10:00 a.m.~~
-* Lunes 3:00 - 4:00 p.m
-* Viernes 4:00 - 5:00 p.m
-
-Las consultas se realizarán en la sala de profesores de cátedra de la Escuela de Matemáticas,
-en el primer piso de LL. Por favor verificar que al menos uno de los dos horarios propuestos
-les sirva, en caso contrario me avisan por email.
 
 
